@@ -1,0 +1,33 @@
+﻿@page "{id:int}"
+@model EmpresaTransporte.Pages.Camiones.EditarModel
+
+<h1>Editar Estado del Camión</h1>
+
+<form method="post">
+    <input type="hidden" asp-for="Camion.Id" />
+
+    <div>
+        <label>Marca:</label>
+        <input asp-for="Camion.Marca" readonly />
+    </div>
+    <div>
+        <label>Modelo:</label>
+        <input asp-for="Camion.Modelo" readonly />
+    </div>
+    <div>
+        <label>Año:</label>
+        <input asp-for="Camion.Anio" readonly />
+    </div>
+    <div>
+        <label>Estado:</label>
+        <select asp-for="Camion.Estado">
+            <option value="Disponible">Disponible</option>
+            <option value="EnViaje">EnViaje</option>
+            <option value="Malo">Malo</option>
+            <option value="EnReparación">EnReparación</option>
+        </select>
+    </div>
+
+    <button type="submit">Guardar</button>
+    <a asp-page="List">Cancelar</a>
+</form>

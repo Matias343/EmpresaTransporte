@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|c:\\users\\ponsp\\desktop\\empresatransporte\\empresatransporte\\pages\\mantenciones\\lista.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\pages\\mantenciones\\lista.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|c:\\users\\ponsp\\desktop\\empresatransporte\\empresatransporte\\pages\\mantenciones\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\pages\\mantenciones\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|c:\\users\\ponsp\\desktop\\empresatransporte\\empresatransporte\\pages\\mantenciones\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\pages\\mantenciones\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|c:\\users\\ponsp\\desktop\\empresatransporte\\empresatransporte\\pages\\camiones\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\pages\\camiones\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|c:\\users\\ponsp\\desktop\\empresatransporte\\empresatransporte\\pages\\camiones\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\pages\\camiones\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|c:\\users\\ponsp\\desktop\\empresatransporte\\empresatransporte\\pages\\mantenciones\\crear.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\pages\\mantenciones\\crear.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|c:\\users\\ponsp\\desktop\\empresatransporte\\empresatransporte\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|c:\\users\\ponsp\\desktop\\empresatransporte\\empresatransporte\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|c:\\users\\ponsp\\desktop\\empresatransporte\\empresatransporte\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|c:\\users\\ponsp\\desktop\\empresatransporte\\empresatransporte\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|c:\\users\\ponsp\\desktop\\empresatransporte\\empresatransporte\\pages\\camiones\\lista.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\pages\\camiones\\lista.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|c:\\users\\ponsp\\desktop\\empresatransporte\\empresatransporte\\pages\\camiones\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\pages\\camiones\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|c:\\users\\ponsp\\desktop\\empresatransporte\\empresatransporte\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|c:\\users\\ponsp\\desktop\\empresatransporte\\empresatransporte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|c:\\users\\ponsp\\desktop\\empresatransporte\\empresatransporte\\models\\sistemacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\models\\sistemacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|c:\\users\\ponsp\\desktop\\empresatransporte\\empresatransporte\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3173A11B-4206-44F9-B4A4-79BF90681BF6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lista.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Mantenciones\\Lista.cshtml.cs",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\Pages\\Mantenciones\\Lista.cshtml.cs",
+              "ToolTip": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Mantenciones\\Lista.cshtml.cs",
+              "RelativeToolTip": "EmpresaTransporte\\Pages\\Mantenciones\\Lista.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T03:38:24.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Mantenciones\\Lista.cshtml",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\Pages\\Mantenciones\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Mantenciones\\Lista.cshtml",
+              "RelativeToolTip": "EmpresaTransporte\\Pages\\Mantenciones\\Lista.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T03:38:16.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Crear.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Mantenciones\\Crear.cshtml.cs",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\Pages\\Mantenciones\\Crear.cshtml.cs",
+              "ToolTip": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Mantenciones\\Crear.cshtml.cs",
+              "RelativeToolTip": "EmpresaTransporte\\Pages\\Mantenciones\\Crear.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T03:26:41.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Mantenciones\\Crear.cshtml",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\Pages\\Mantenciones\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Mantenciones\\Crear.cshtml",
+              "RelativeToolTip": "EmpresaTransporte\\Pages\\Mantenciones\\Crear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T03:26:25.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "EmpresaTransporte\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T03:25:04.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Camiones\\Lista.cshtml",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\Pages\\Camiones\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Camiones\\Lista.cshtml",
+              "RelativeToolTip": "EmpresaTransporte\\Pages\\Camiones\\Lista.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T01:27:28.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Camiones\\Editar.cshtml",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\Pages\\Camiones\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Camiones\\Editar.cshtml",
+              "RelativeToolTip": "EmpresaTransporte\\Pages\\Camiones\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T03:13:28.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "EmpresaTransporte\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T03:25:08.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Error.cshtml",
+              "RelativeToolTip": "EmpresaTransporte\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T03:25:08.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Editar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Camiones\\Editar.cshtml.cs",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\Pages\\Camiones\\Editar.cshtml.cs",
+              "ToolTip": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Camiones\\Editar.cshtml.cs",
+              "RelativeToolTip": "EmpresaTransporte\\Pages\\Camiones\\Editar.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T03:13:32.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "EmpresaTransporte\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:40:40.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lista.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Camiones\\Lista.cshtml.cs",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\Pages\\Camiones\\Lista.cshtml.cs",
+              "ToolTip": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Camiones\\Lista.cshtml.cs",
+              "RelativeToolTip": "EmpresaTransporte\\Pages\\Camiones\\Lista.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:35:00.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Program.cs",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\Program.cs",
+              "ToolTip": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Program.cs",
+              "RelativeToolTip": "EmpresaTransporte\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T03:06:38.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\appsettings.json",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\appsettings.json",
+              "ToolTip": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\appsettings.json",
+              "RelativeToolTip": "EmpresaTransporte\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T03:07:13.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Pages\\Index.cshtml",
+              "RelativeToolTip": "EmpresaTransporte\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T01:37:03.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SistemaContext.cs",
+              "DocumentMoniker": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Models\\SistemaContext.cs",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\Models\\SistemaContext.cs",
+              "ToolTip": "C:\\Users\\ponsp\\Desktop\\EmpresaTransporte\\EmpresaTransporte\\Models\\SistemaContext.cs",
+              "RelativeToolTip": "EmpresaTransporte\\Models\\SistemaContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:39:29.408Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

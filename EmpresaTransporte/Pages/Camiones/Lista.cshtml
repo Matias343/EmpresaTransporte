@@ -1,0 +1,30 @@
+﻿@page
+@model EmpresaTransporte.Pages.Camiones.ListaModel
+
+<h1>Listado de Camiones</h1>
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Marca</th>
+            <th>Modelo</th>
+            <th>Año</th>
+            <th>Kilometraje</th>
+            <th>Estado</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Camion in Model.Camiones)
+        {
+            <tr>
+                <td>@Camion.Id</td>
+                <td>@Camion.Marca</td>
+                <td>@Camion.Modelo</td>
+                <td>@Camion.Anio</td>
+                <td>@Camion.Kilometraje</td>
+                <td>@Camion.Estado</td>
+            </tr>
+        }
+    </tbody>
+</table>

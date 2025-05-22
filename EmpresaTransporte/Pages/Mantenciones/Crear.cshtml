@@ -1,0 +1,29 @@
+﻿@page "{IdCamion:int?}"
+@model EmpresaTransporte.Pages.Mantenciones.CrearModel
+@{
+    ViewData["Title"] = "Agregar Mantención";
+}
+
+<h1>Agregar Mantención para Camión @Model.IdCamion</h1>
+
+<form method="post">
+    <input type="hidden" asp-for="NuevaMantencion.IdCamion" />
+
+    <div>
+        <label asp-for="NuevaMantencion.Fecha"></label>
+        <input asp-for="NuevaMantencion.Fecha" type="date" />
+        <span asp-validation-for="NuevaMantencion.Fecha"></span>
+    </div>
+
+    <div>
+        <label asp-for="NuevaMantencion.Observacion"></label>
+        <input asp-for="NuevaMantencion.Observacion" />
+        <span asp-validation-for="NuevaMantencion.Observacion"></span>
+    </div>
+
+    <button type="submit">Guardar</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
